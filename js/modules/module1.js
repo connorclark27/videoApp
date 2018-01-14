@@ -1,7 +1,7 @@
 var myApp = {
-  mainMessage : "Welcome to the app!",
+  mainMessage : "Welcome to the Roku Video App",
 
   mainGreeting() {
-    console.console.log("welcome to my app");
+    console.console.log("Welcome to the Roku Video App");
   }
 }
